@@ -7,7 +7,7 @@ Python-based FAQ retrieval system designed to answer common questions about Gold
 This repository contains a Python-based FAQ retrieval system designed to answer common questions about Golden Retrievers. It utilizes fuzzy matching and semantic search techniques to handle various ways a question may be phrased, offering relevant answers from a predefined FAQ database.
 
 ## Features
-- **Comprehensive FAQ Dataset**: The system is equipped with a wide range of FAQs about Golden Retrievers, covering topics like lifespan, diet, grooming, training, health, and more.
+- **Comprehensive FAQ Dataset**: The system is equipped with a wide range of AI generated FAQs about Golden Retrievers.
 - **Fuzzy Matching**: Handles user queries that are close but not identical to predefined FAQ questions using fuzzy matching with the `rapidfuzz` library.
 - **Semantic Search**: Uses embedding-based similarity (via language models) to find semantically similar questions, ensuring flexibility in understanding different phrasings of the same question.
 
